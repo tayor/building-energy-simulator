@@ -1,2 +1,2 @@
 # building-energy-simulator
-Neural Network Learning of Energy Building Simulations
+Neural Networks for Building Energy Modeling
