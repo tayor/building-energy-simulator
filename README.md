@@ -1,2 +1,2 @@
-# Building Energy Simulator [WIP]
+# Building Energy Simulator
 Neural Networks for Building Energy Simulation and Modeling
